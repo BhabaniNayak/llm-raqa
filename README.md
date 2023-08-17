@@ -1,6 +1,4 @@
-# Week 1: Tuesday Session
-
-In today's assignment, we'll be creating a simplified RAQA system using OpenAI, LangChain, FAISS, and Chainlit.
+Lets create a simplified RAQA system using OpenAI, LangChain, FAISS, and Chainlit.
 
 There are 3 main sections to this assignment:
 
@@ -21,7 +19,7 @@ This will take you through three major steps:
 
 ## Ship 🚢
 
-Duplicate the provided [Hugging Face Space](https://huggingface.co/spaces/ai-maker-space/Barbie-RAQA-Application-Chainlit-Demo)
+https://huggingface.co/spaces/genaiquest/Barbie-RAQA-Application-Chainlit-Demo
 
 ### Deliverables
 
