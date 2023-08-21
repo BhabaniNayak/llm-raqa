@@ -1,6 +1,6 @@
 Lets create a simplified RAQA system using OpenAI, LangChain, FAISS, and Chainlit.
 
-There are 3 main sections to this assignment:
+There are 3 main sections:
 
 ## Build 🏗️
 
