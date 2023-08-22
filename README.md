@@ -24,6 +24,7 @@ https://huggingface.co/spaces/genaiquest/Barbie-RAQA-Application-Chainlit-Demo
 ### Deliverables
 
 - A short Loom of the space, and a 1min. walkthrough of the application in full
+- https://www.loom.com/share/4e18dcc02d334c16a0146c05d989eebb
 
 ## Share 🚀
 
